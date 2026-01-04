@@ -1,0 +1,103 @@
+=== DATA PELANGGAN DRIVE-THRU ===
+Tanggal Export: Sistem Drive-Thru
+
+Nama: Davin 
+NIK: 1233257923579221
+Total Belanja: Rp 15000
+Kunjungan: 1
+------------------------------
+Nama: Alina
+NIK: 1232534646767989
+Total Belanja: Rp 15000
+Kunjungan: 1
+------------------------------
+Nama: Rivia
+NIK: 1779105100325791
+Total Belanja: Rp 44000
+Kunjungan: 1
+------------------------------
+Nama: Zen
+NIK: 1233454366778900
+Total Belanja: Rp 22000
+Kunjungan: 1
+------------------------------
+Nama: Naema
+NIK: 1243335443667678
+Total Belanja: Rp 15000
+Kunjungan: 1
+------------------------------
+Nama: Olivia
+NIK: 1113970002345678
+Total Belanja: Rp 15000
+Kunjungan: 1
+------------------------------
+Nama: Caca
+NIK: 1579563273425784
+Total Belanja: Rp 40000
+Kunjungan: 1
+------------------------------
+Nama: Rina
+NIK: 1257463425234233
+Total Belanja: Rp 30000
+Kunjungan: 1
+------------------------------
+Nama: Aska
+NIK: 1379028093275999
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
+Nama: Rino
+NIK: 1257973339990277
+Total Belanja: Rp 25000
+Kunjungan: 1
+------------------------------
+Nama: Theo
+NIK: 1345556954768060
+Total Belanja: Rp 35000
+Kunjungan: 1
+------------------------------
+Nama: Eva
+NIK: 1175690222334550
+Total Belanja: Rp 20000
+Kunjungan: 1
+------------------------------
+Nama: Amar
+NIK: 1257933920145934
+Total Belanja: Rp 40000
+Kunjungan: 1
+------------------------------
+Nama: Desi
+NIK: 1345436657729011
+Total Belanja: Rp 35000
+Kunjungan: 1
+------------------------------
+Nama: Fitri
+NIK: 1234508097686902
+Total Belanja: Rp 125000
+Kunjungan: 1
+------------------------------
+Nama: Andi
+NIK: 1904308549275942
+Total Belanja: Rp 75000
+Kunjungan: 1
+------------------------------
+Nama: Ema
+NIK: 1075297130111777
+Total Belanja: Rp 30000
+Kunjungan: 1
+------------------------------
+Nama: Lyla
+NIK: 1975213910275390
+Total Belanja: Rp 50000
+Kunjungan: 1
+------------------------------
+Nama: Dini
+NIK: 1134650178923421
+Total Belanja: Rp 60000
+Kunjungan: 1
+------------------------------
+Nama: 2
+NIK: 1234567890123456
+Total Belanja: Rp 40000
+Kunjungan: 1
+------------------------------

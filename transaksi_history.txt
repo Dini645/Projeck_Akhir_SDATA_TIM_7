@@ -1,0 +1,190 @@
+=== RIWAYAT TRANSAKSI DRIVE-THRU ===
+Tanggal Export: Sistem Drive-Thru
+
+Transaksi #1
+No. Pesanan  : 1020
+Pelanggan    : Davin 
+NIK          : 1233257923579221
+Total        : Rp 15000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #2
+No. Pesanan  : 1019
+Pelanggan    : Alina
+NIK          : 1232534646767989
+Total        : Rp 15000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #3
+No. Pesanan  : 1018
+Pelanggan    : Rivia
+NIK          : 1779105100325791
+Total        : Rp 44000
+Makanan      : 0 item
+Minuman      : 2 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #4
+No. Pesanan  : 1017
+Pelanggan    : Zen
+NIK          : 1233454366778900
+Total        : Rp 22000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #5
+No. Pesanan  : 1016
+Pelanggan    : Naema
+NIK          : 1243335443667678
+Total        : Rp 15000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #6
+No. Pesanan  : 1015
+Pelanggan    : Olivia
+NIK          : 1113970002345678
+Total        : Rp 15000
+Makanan      : 0 item
+Minuman      : 1 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #7
+No. Pesanan  : 1014
+Pelanggan    : Caca
+NIK          : 1579563273425784
+Total        : Rp 40000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #8
+No. Pesanan  : 1013
+Pelanggan    : Rina
+NIK          : 1257463425234233
+Total        : Rp 30000
+Makanan      : 0 item
+Minuman      : 2 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #9
+No. Pesanan  : 1012
+Pelanggan    : Aska
+NIK          : 1379028093275999
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #10
+No. Pesanan  : 1011
+Pelanggan    : Rino
+NIK          : 1257973339990277
+Total        : Rp 25000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #11
+No. Pesanan  : 1010
+Pelanggan    : Theo
+NIK          : 1345556954768060
+Total        : Rp 35000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #12
+No. Pesanan  : 1009
+Pelanggan    : Eva
+NIK          : 1175690222334550
+Total        : Rp 20000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #13
+No. Pesanan  : 1008
+Pelanggan    : Amar
+NIK          : 1257933920145934
+Total        : Rp 40000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #14
+No. Pesanan  : 1007
+Pelanggan    : Desi
+NIK          : 1345436657729011
+Total        : Rp 35000
+Makanan      : 1 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #15
+No. Pesanan  : 1006
+Pelanggan    : Fitri
+NIK          : 1234508097686902
+Total        : Rp 125000
+Makanan      : 5 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #16
+No. Pesanan  : 1005
+Pelanggan    : Andi
+NIK          : 1904308549275942
+Total        : Rp 75000
+Makanan      : 3 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #17
+No. Pesanan  : 1004
+Pelanggan    : Ema
+NIK          : 1075297130111777
+Total        : Rp 30000
+Makanan      : 0 item
+Minuman      : 2 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #18
+No. Pesanan  : 1003
+Pelanggan    : Lyla
+NIK          : 1975213910275390
+Total        : Rp 50000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #19
+No. Pesanan  : 1002
+Pelanggan    : Dini
+NIK          : 1134650178923421
+Total        : Rp 60000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+Transaksi #20
+No. Pesanan  : 1001
+Pelanggan    : 2
+NIK          : 1234567890123456
+Total        : Rp 40000
+Makanan      : 2 item
+Minuman      : 0 item
+Waktu        : Sistem Drive-Thru
+----------------------------------------
+
+SUMMARY:
+Total Transaksi: 20
+Total Pemasukan: Rp 751000
+Total Keuntungan: Rp 300400
+Total Makanan: 23
+Total Minuman: 11
